@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:title="General">
+        <item
+            android:id="@+id/home"
+            android:title="Home" />
+        <item
+            android:id="@+id/sleep"
+            android:title="baby slept" />
+        <item
+            android:id="@+id/wake_up"
+            android:title="baby woke up" />
+        <item
+            android:id="@+id/change"
+            android:title="changed the baby" />
+        <item
+            android:id="@+id/suck"
+            android:title="baby suckled" />
+    </item>
+    <item android:title="Summary">
+        <item
+            android:id="@+id/summary_days"
+            android:title="Summary of days" />
+    </item>
+
+</menu>
